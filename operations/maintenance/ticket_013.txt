@@ -1,0 +1,18 @@
+MAINTENANCE TICKET
+
+Ticket:
+MT-0013
+
+Category:
+Network
+
+Priority:
+LOW
+
+Assigned:
+Priya Rao
+
+Status:
+OPEN
+
+No incident relevance established.

@@ -1,0 +1,13 @@
+CONTROLLER EXPORT
+
+Controller:
+M-17
+
+Firmware:
+6.4
+
+State:
+VALID
+
+Maintenance mode:
+OFF

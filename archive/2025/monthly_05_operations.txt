@@ -1,0 +1,22 @@
+ARCHIVE OPERATIONS SUMMARY
+
+Year:
+2025
+
+Month:
+05
+
+Availability:
+99.90%
+
+Tickets:
+26
+
+Maintenance:
+8
+
+Incidents:
+0
+
+Status:
+ARCHIVED

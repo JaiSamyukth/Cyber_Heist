@@ -1,0 +1,16 @@
+MONTHLY SECURITY AUDIT
+
+Password policy:
+PASS
+
+Access review:
+PASS
+
+Backup verification:
+PASS
+
+Log retention:
+PASS
+
+Physical security:
+PASS

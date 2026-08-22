@@ -1,0 +1,18 @@
+MAINTENANCE TICKET
+
+Ticket:
+MT-0005
+
+Category:
+Hardware
+
+Priority:
+LOW
+
+Assigned:
+R. Khan
+
+Status:
+OPEN
+
+No incident relevance established.

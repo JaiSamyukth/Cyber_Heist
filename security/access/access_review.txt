@@ -1,0 +1,16 @@
+ADMINISTRATIVE ACCESS REVIEW
+
+Administrator accounts:
+1
+
+Operator accounts:
+7
+
+Service accounts:
+12
+
+Disabled accounts:
+4
+
+Review status:
+COMPLETE

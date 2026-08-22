@@ -1,0 +1,19 @@
+WEEKLY OPERATIONS REPORT
+
+Week:
+18
+
+Open tickets:
+13
+
+Maintenance jobs:
+5
+
+Backup:
+SUCCESS
+
+Network:
+STABLE
+
+General status:
+HEALTHY

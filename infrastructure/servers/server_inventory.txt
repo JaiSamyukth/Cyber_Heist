@@ -1,0 +1,9 @@
+SERVER INVENTORY
+
+nexus-core-01
+nexus-core-02
+archive-01
+backup-01
+monitor-01
+auth-01
+netmon-01

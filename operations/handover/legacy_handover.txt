@@ -1,0 +1,10 @@
+LEGACY HANDOVER
+
+The previous recovery architecture used manual operator verification.
+
+Recovery values were kept in a single maintenance workbook.
+
+This process was retired before BLACKOUT-042.
+
+STATUS:
+OBSOLETE

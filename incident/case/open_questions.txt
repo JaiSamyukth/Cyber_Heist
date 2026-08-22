@@ -1,0 +1,10 @@
+OPEN INVESTIGATION QUESTIONS
+
+1. What account was misused?
+2. Which subsystem first recorded recovery activity?
+3. Which controller proves system integrity?
+4. Which controller confirms isolation?
+5. Which component owns archive verification?
+6. Which controller represents emergency recovery?
+7. Which record confirms final restoration?
+8. Why was the old recovery protocol removed?

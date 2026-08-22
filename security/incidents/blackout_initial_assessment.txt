@@ -1,0 +1,9 @@
+BLACKOUT INITIAL ASSESSMENT
+
+svc_backup authenticated from an unexpected source.
+
+The account reached a resource outside its normal scope.
+
+No evidence indicates that the recovery system was destroyed.
+
+Investigation continues.

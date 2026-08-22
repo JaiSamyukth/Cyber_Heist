@@ -1,0 +1,7 @@
+EVIDENCE PRESERVATION NOTICE
+
+Repository history is incident evidence.
+
+Historical states must not be rewritten.
+
+Deleted files may contain information relevant to reconstruction.

@@ -1,0 +1,12 @@
+ARCHIVE CONTROLLER AUDIT
+
+Controller:
+ARC-02
+
+Subsystem:
+ARCHIVE
+
+Status:
+VALID
+
+The production application contains the active controller diagnostic.

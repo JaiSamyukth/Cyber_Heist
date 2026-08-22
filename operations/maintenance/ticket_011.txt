@@ -1,0 +1,18 @@
+MAINTENANCE TICKET
+
+Ticket:
+MT-0011
+
+Category:
+Storage
+
+Priority:
+LOW
+
+Assigned:
+R. Khan
+
+Status:
+CLOSED
+
+No incident relevance established.

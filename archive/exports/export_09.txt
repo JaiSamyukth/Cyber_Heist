@@ -1,0 +1,16 @@
+ARCHIVE EXPORT
+
+Export ID:
+EX-30503
+
+Records:
+816
+
+Valid:
+1561
+
+Format:
+NEXUS-ARCHIVE-V5
+
+Status:
+COMPLETE

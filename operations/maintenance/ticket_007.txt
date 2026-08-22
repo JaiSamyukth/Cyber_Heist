@@ -1,0 +1,18 @@
+MAINTENANCE TICKET
+
+Ticket:
+MT-0007
+
+Category:
+Power
+
+Priority:
+LOW
+
+Assigned:
+Priya Rao
+
+Status:
+CLOSED
+
+No incident relevance established.

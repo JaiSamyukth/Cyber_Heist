@@ -1,0 +1,16 @@
+OLD MANUAL RECOVERY WORKBOOK EXPORT
+
+AUTH: 06
+INTEGRITY: 04
+ISOLATION: 07
+ARCHIVE: 03
+RECOVERY: 05
+RESTORE: 02
+
+SYSTEM GENERATION:
+LEGACY
+
+STATUS:
+OBSOLETE
+
+These values do not apply to the current distributed recovery system.

@@ -1,0 +1,13 @@
+STORAGE REPORT
+
+Primary:
+72%
+
+Secondary:
+51%
+
+Archive:
+68%
+
+Offsite:
+43%

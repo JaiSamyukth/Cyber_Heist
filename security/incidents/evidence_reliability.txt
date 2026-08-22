@@ -1,0 +1,12 @@
+EVIDENCE RELIABILITY GUIDANCE
+
+When reconstructing BLACKOUT-042:
+
+1. Prefer raw system-generated events.
+2. Check the system generation.
+3. Check timestamps.
+4. Compare current files with historical versions.
+5. Do not trust numbers merely because they look technical.
+6. Correlate independent systems.
+
+When two records disagree, determine which system generated each one.

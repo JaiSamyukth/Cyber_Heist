@@ -1,0 +1,27 @@
+CORROBORATION MATRIX
+
+A / AUTHENTICATION
+Primary: authentication service
+Secondary: Security Operations
+
+B / INTEGRITY
+Primary: core integrity service
+Secondary: maintenance
+
+C / ISOLATION
+Primary: network isolation controller
+Secondary: firewall
+
+D / ARCHIVE
+Primary: archive subsystem
+Secondary: production application
+
+E / RECOVERY
+Primary: recovery controller
+Secondary: recovery telemetry
+
+F / RESTORE
+Primary: restoration controller
+Secondary: maintenance
+
+The matrix deliberately omits numerical values.

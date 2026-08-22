@@ -1,0 +1,16 @@
+ARCHIVE INDEX
+
+A01 Personnel
+A02 Finance
+A03 Operations
+A04 Security
+B01 Maintenance
+B02 Equipment
+B03 Network
+B04 Storage
+
+Review:
+21/07/2026
+
+Index version:
+3.1

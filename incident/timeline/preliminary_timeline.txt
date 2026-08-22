@@ -1,0 +1,14 @@
+BLACKOUT-042 PRELIMINARY TIMELINE
+
+08:21:14 Operator session begins.
+08:29:47 svc_backup authenticates from unusual source.
+08:30:11 Suspicious network activity.
+08:31:07 Security alert.
+08:31:08 Administrator locked.
+08:31:10 Recovery mode enabled.
+08:32:41 Integrity verification begins.
+08:33:52 Isolation requested.
+08:34:18 Recovery interrupted.
+08:37:00 Incident response opened.
+
+Raw system logs have higher confidence than manual summaries.

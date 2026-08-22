@@ -1,0 +1,7 @@
+ACCESS CONTROL POLICY
+
+Service accounts must use approved hosts.
+
+Administrative accounts require MFA.
+
+Emergency recovery actions must be logged.

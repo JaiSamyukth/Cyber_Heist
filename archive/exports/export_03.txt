@@ -1,0 +1,16 @@
+ARCHIVE EXPORT
+
+Export ID:
+EX-43049
+
+Records:
+800
+
+Valid:
+977
+
+Format:
+NEXUS-ARCHIVE-V5
+
+Status:
+COMPLETE

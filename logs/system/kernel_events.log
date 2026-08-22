@@ -1,0 +1,15 @@
+NEXUS CORE KERNEL EVENTS
+
+08:31:08 account_lock
+08:31:10 recovery_service_start
+08:31:22 process_supervisor_active
+08:32:44 integrity_hash_verification_completed
+08:33:01 configuration_loaded
+08:33:52 isolation_request
+08:34:18 recovery_process_terminated
+
+Kernel event count:
+1842
+
+Dropped events:
+0

@@ -1,0 +1,18 @@
+MAINTENANCE TICKET
+
+Ticket:
+MT-0017
+
+Category:
+Hardware
+
+Priority:
+MEDIUM
+
+Assigned:
+R. Khan
+
+Status:
+OPEN
+
+No incident relevance established.

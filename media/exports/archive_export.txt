@@ -1,0 +1,13 @@
+ARCHIVE EXPORT
+
+Record count:
+1842
+
+Valid records:
+1817
+
+Corrupt:
+25
+
+Export date:
+20/08/2026

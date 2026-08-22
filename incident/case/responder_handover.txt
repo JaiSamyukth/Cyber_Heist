@@ -1,0 +1,15 @@
+INCIDENT RESPONSE HANDOVER
+
+08:37  Initial collection started.
+08:41  Administrator workstation isolated.
+08:46  Repository snapshot obtained.
+08:53  Authentication records requested.
+09:02  Network records requested.
+09:08  Maintenance records requested.
+09:15  Archive records requested.
+09:21  Historical records found to conflict.
+09:28  No evidence of complete credential destruction.
+09:31  Recovery information appears deliberately distributed.
+
+FOLLOW-UP:
+Correlate multiple sources.

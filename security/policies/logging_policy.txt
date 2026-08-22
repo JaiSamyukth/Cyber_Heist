@@ -1,0 +1,13 @@
+LOGGING POLICY
+
+Authentication:
+365 days
+
+Firewall:
+365 days
+
+System:
+180 days
+
+Debug:
+30 days

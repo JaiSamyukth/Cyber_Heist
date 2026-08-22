@@ -1,0 +1,9 @@
+TIMESTAMP NOTES
+
+Several documents use different timestamps.
+
+Possible reason:
+document creation time may differ from event time.
+
+Reliability guidance:
+prefer raw controller/system logs when available.

@@ -1,0 +1,7 @@
+EVIDENCE RETENTION NOTICE
+
+BLACKOUT-042 material must be preserved.
+
+Repository history must not be rewritten.
+
+Deleted historical records remain relevant to forensic review.

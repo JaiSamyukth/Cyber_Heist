@@ -1,0 +1,24 @@
+INTERNAL MEMORANDUM
+
+FROM:
+Security Administration
+
+TO:
+Systems Operations
+
+SUBJECT:
+Emergency Recovery Cabinet
+
+Following BLACKOUT-042, the physical recovery cabinet was opened.
+
+The restoration drawer contained a controller display.
+
+The display showed:
+
+RESTORE_F = 04
+
+The controller was powered down before inspection.
+
+The cabinet label for the displayed stage was:
+
+FINAL RESTORATION

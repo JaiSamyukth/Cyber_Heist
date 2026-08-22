@@ -1,0 +1,19 @@
+OLD SYSTEM PERFORMANCE REPORT
+
+Date:
+04/06/2026
+
+CPU:
+41%
+
+Memory:
+63%
+
+Storage:
+72%
+
+Average response:
+18 ms
+
+Report version:
+2.4

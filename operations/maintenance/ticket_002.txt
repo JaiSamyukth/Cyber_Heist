@@ -1,0 +1,18 @@
+MAINTENANCE TICKET
+
+Ticket:
+MT-0002
+
+Category:
+Hardware
+
+Priority:
+MEDIUM
+
+Assigned:
+Priya Rao
+
+Status:
+OPEN
+
+No incident relevance established.

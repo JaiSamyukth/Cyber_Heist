@@ -1,0 +1,18 @@
+MAINTENANCE TICKET
+
+Ticket:
+MT-0014
+
+Category:
+Storage
+
+Priority:
+LOW
+
+Assigned:
+Daniel Mercer
+
+Status:
+CLOSED
+
+No incident relevance established.

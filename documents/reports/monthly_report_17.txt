@@ -1,0 +1,22 @@
+MONTHLY SYSTEM REPORT
+
+Report:
+17
+
+CPU:
+39%
+
+Memory:
+76%
+
+Storage:
+66%
+
+Availability:
+99.90%
+
+Average latency:
+13 ms
+
+Status:
+HEALTHY

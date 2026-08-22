@@ -1,0 +1,12 @@
+DHCP SUMMARY
+
+Leases:
+184
+
+Expired:
+12
+
+Active:
+172
+
+No anomalies detected.

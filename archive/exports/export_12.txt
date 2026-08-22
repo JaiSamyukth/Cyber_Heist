@@ -1,0 +1,16 @@
+ARCHIVE EXPORT
+
+Export ID:
+EX-40619
+
+Records:
+887
+
+Valid:
+1857
+
+Format:
+NEXUS-ARCHIVE-V2
+
+Status:
+COMPLETE

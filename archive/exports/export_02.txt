@@ -1,0 +1,16 @@
+ARCHIVE EXPORT
+
+Export ID:
+EX-48675
+
+Records:
+2312
+
+Valid:
+759
+
+Format:
+NEXUS-ARCHIVE-V2
+
+Status:
+COMPLETE

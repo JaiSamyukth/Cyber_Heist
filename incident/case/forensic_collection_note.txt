@@ -1,0 +1,11 @@
+FORENSIC COLLECTION NOTE
+
+The investigation is not a search for random numbers.
+
+For each A-F marker:
+
+1. Identify the subsystem.
+2. Find the current authoritative record.
+3. Confirm the value with a second source when possible.
+4. Reject values belonging to obsolete architectures.
+5. Preserve the reasoning.

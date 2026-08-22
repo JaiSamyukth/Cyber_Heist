@@ -1,0 +1,20 @@
+NEXUS AUTHENTICATION SERVICE
+
+2026-08-21
+
+08:21:14 LOGIN user=operator_07 result=SUCCESS source=10.24.18.31
+08:29:47 LOGIN user=svc_backup result=SUCCESS source=10.44.7.19
+08:29:51 TOKEN_REFRESH user=svc_backup result=SUCCESS
+08:30:02 LOGIN user=administrator result=FAIL source=10.44.7.19
+08:30:05 LOGIN user=administrator result=FAIL source=10.44.7.19
+08:30:09 LOGIN user=administrator result=FAIL source=10.44.7.19
+08:31:08 ACCOUNT_LOCK user=administrator reason=THRESHOLD
+08:31:10 RECOVERY_MODE enabled
+08:31:15 AUTH_RECOVERY checkpoint=05 result=ACCEPTED
+08:31:17 AUTH_RECOVERY stage=complete
+
+SYSTEM:
+auth-01
+
+LOG INTEGRITY:
+VALID

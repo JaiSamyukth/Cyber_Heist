@@ -1,0 +1,30 @@
+NEXUS SYSTEMS INCIDENT RESPONSE REPORT
+
+Case:
+BLACKOUT-042
+
+Lead investigator:
+Mira Sen
+
+The SOC received an administrator authentication alert at 08:31:07.
+
+The account belonging to Adrian Vale was locked immediately after
+the failed authentication sequence.
+
+The recovery environment remained intact.
+
+This changed the investigation from credential destruction to evidence
+reconstruction.
+
+Six recovery details are known to exist:
+
+A
+B
+C
+D
+E
+F
+
+The values are distributed among separate operational systems.
+
+End report.

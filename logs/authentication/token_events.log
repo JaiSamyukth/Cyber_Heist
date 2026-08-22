@@ -1,0 +1,11 @@
+TOKEN EVENT EXPORT
+
+08:29:51 svc_backup token_refresh
+08:29:52 svc_backup token_refresh
+08:29:54 svc_backup token_refresh
+08:30:02 administrator auth_fail
+08:30:05 administrator auth_fail
+08:30:09 administrator auth_fail
+
+Token service:
+HEALTHY

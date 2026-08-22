@@ -1,0 +1,12 @@
+PRE-INCIDENT SECURITY REVIEW
+
+svc_backup:
+LIMITED
+
+svc_archive:
+LIMITED
+
+svc_monitor:
+LIMITED
+
+Emergency recovery remains isolated from standard service accounts.

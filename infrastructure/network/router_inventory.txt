@@ -1,0 +1,12 @@
+ROUTER INVENTORY
+
+RTR-01
+RTR-02
+RTR-03
+RTR-04
+
+Firmware:
+4.1
+4.1
+4.2
+4.0

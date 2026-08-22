@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NEXUS CORE Recovery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main class="terminal">
+    <h1>NEXUS CORE</h1>
+    <div class="status">SYSTEM STATUS: COMPROMISED</div>
+    <p>Administrator recovery mode is active.</p>
+
+    <label for="code">SIX-DIGIT RECOVERY CODE</label>
+    <br><br>
+
+    <input id="code" maxlength="6" autocomplete="off">
+
+    <button onclick="submitCode()">
+        RECOVER SYSTEM
+    </button>
+
+    <p id="message"></p>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>

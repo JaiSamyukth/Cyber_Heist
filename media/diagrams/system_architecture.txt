@@ -1,0 +1,13 @@
+NEXUS CORE ARCHITECTURE
+
+[ USERS ]
+    |
+[ AUTH SERVICE ]
+    |
+[ CORE ]
+ /   |    \
+NETWORK ARCHIVE RECOVERY
+MONITOR    SYS   CTRL
+
+Diagram revision:
+12

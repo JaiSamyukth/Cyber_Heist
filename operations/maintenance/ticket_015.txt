@@ -1,0 +1,18 @@
+MAINTENANCE TICKET
+
+Ticket:
+MT-0015
+
+Category:
+Storage
+
+Priority:
+LOW
+
+Assigned:
+Daniel Mercer
+
+Status:
+SCHEDULED
+
+No incident relevance established.

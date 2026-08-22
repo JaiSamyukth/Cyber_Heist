@@ -1,0 +1,16 @@
+EQUIPMENT INVENTORY
+
+Rack A:
+Switch A-03
+UPS A-11
+Controller A-02
+
+Rack B:
+Switch B-04
+UPS B-08
+Controller B-17
+
+Rack C:
+Switch C-01
+UPS C-09
+Controller C-12

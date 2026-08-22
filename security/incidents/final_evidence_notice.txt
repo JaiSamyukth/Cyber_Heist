@@ -1,0 +1,15 @@
+FINAL EVIDENCE NOTICE
+
+The six-stage recovery architecture remains valid.
+
+Investigators should correlate:
+
+AUTHENTICATION
+INTEGRITY
+ISOLATION
+ARCHIVE
+RECOVERY
+RESTORE
+
+The current repository snapshot does not contain the complete original
+recovery documentation.

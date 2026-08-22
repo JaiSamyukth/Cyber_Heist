@@ -1,0 +1,15 @@
+RECOVERY ARCHITECTURE OVERVIEW
+
+The current emergency recovery process has six operational stages:
+
+AUTHENTICATION
+INTEGRITY
+ISOLATION
+ARCHIVE
+RECOVERY
+RESTORE
+
+Each stage belongs to a different operational subsystem.
+
+This document describes the architecture and order, not the numerical
+values.

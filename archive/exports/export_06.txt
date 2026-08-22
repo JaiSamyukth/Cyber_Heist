@@ -1,0 +1,16 @@
+ARCHIVE EXPORT
+
+Export ID:
+EX-66869
+
+Records:
+2018
+
+Valid:
+1228
+
+Format:
+NEXUS-ARCHIVE-V3
+
+Status:
+COMPLETE

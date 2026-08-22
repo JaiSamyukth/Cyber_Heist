@@ -1,0 +1,21 @@
+RECOVERY STAGE MAP
+
+Stage 1:
+AUTHENTICATION
+
+Stage 2:
+INTEGRITY
+
+Stage 3:
+ISOLATION
+
+Stage 4:
+ARCHIVE
+
+Stage 5:
+RECOVERY
+
+Stage 6:
+RESTORE
+
+This file describes process order, not the numerical values.

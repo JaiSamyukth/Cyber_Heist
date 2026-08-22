@@ -1,0 +1,16 @@
+ARCHIVE EXPORT
+
+Export ID:
+EX-48968
+
+Records:
+833
+
+Valid:
+1361
+
+Format:
+NEXUS-ARCHIVE-V4
+
+Status:
+COMPLETE

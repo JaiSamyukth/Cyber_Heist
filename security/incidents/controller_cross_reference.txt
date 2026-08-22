@@ -1,0 +1,21 @@
+CONTROLLER CROSS-REFERENCE
+
+Authentication:
+auth-01
+
+Integrity:
+core-integrity
+
+Isolation:
+net-isolate
+
+Archive:
+archive-01
+
+Recovery:
+recovery-controller
+
+Restore:
+maintenance-controller
+
+These are operational identifiers.

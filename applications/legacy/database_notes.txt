@@ -1,0 +1,13 @@
+LEGACY DATABASE NOTES
+
+Table:
+users
+
+Fields:
+id
+username
+role
+created_at
+disabled
+
+Database retired in 2025.

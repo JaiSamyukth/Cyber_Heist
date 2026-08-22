@@ -1,0 +1,7 @@
+SOC ANALYST NOTE
+
+"GHOST-17" appears in two analyst conversations.
+
+It may refer to an incident label, source, ticket, or actor.
+
+No verified identity exists.

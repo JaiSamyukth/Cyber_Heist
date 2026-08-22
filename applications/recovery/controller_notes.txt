@@ -1,0 +1,18 @@
+RECOVERY CONTROLLER NOTES
+
+Controller family:
+RC-6
+
+Firmware:
+6.4
+
+Supported stages:
+
+AUTHENTICATION
+INTEGRITY
+ISOLATION
+ARCHIVE
+RECOVERY
+RESTORE
+
+Each stage stores an independent controller value.

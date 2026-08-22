@@ -1,0 +1,16 @@
+RECOVERY CONTROLLER AUDIT
+
+Stage:
+RECOVERY
+
+Controller:
+RC-6
+
+Observed parameter:
+01
+
+Audit source:
+recovery-controller telemetry
+
+Audit result:
+VALID

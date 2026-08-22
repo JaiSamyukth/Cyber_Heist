@@ -1,0 +1,18 @@
+INITIAL INVESTIGATION SUMMARY
+
+The incident appears to involve misuse of svc_backup.
+
+The service account reached a resource outside its normal operational
+scope.
+
+Administrator access was locked afterward.
+
+No confirmed destructive deletion has been established.
+
+Open questions:
+
+- Why was svc_backup outside its normal network?
+- Which records are authoritative?
+- Where are the six recovery values?
+- Why was the recovery architecture distributed?
+- What sequence do the stages follow?

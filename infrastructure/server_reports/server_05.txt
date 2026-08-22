@@ -1,0 +1,22 @@
+SERVER HEALTH REPORT
+
+Server ID:
+SRV-05
+
+CPU:
+26%
+
+Memory:
+57%
+
+Storage:
+59%
+
+Temperature:
+26 C
+
+Last reboot:
+2026-08-19
+
+Status:
+NORMAL

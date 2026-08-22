@@ -1,0 +1,15 @@
+RESTORATION CONTROLLER SERVICE LOG
+
+Controller:
+maintenance-controller
+
+Stage:
+RESTORE
+
+Last recorded state:
+STANDBY
+
+Manual inspection reference:
+Emergency Recovery Cabinet
+
+The corresponding cabinet display was recorded separately.

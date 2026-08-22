@@ -1,0 +1,18 @@
+MAINTENANCE TICKET
+
+Ticket:
+MT-0001
+
+Category:
+Network
+
+Priority:
+LOW
+
+Assigned:
+Daniel Mercer
+
+Status:
+OPEN
+
+No incident relevance established.

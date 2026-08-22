@@ -1,0 +1,16 @@
+ARCHIVE EXPORT
+
+Export ID:
+EX-41160
+
+Records:
+1383
+
+Valid:
+1851
+
+Format:
+NEXUS-ARCHIVE-V4
+
+Status:
+COMPLETE

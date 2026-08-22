@@ -1,0 +1,10 @@
+SUBSYSTEM OWNERSHIP REGISTER
+
+AUTHENTICATION -> Security Operations / auth service
+INTEGRITY      -> Core Infrastructure / integrity service
+ISOLATION      -> Network Operations / isolation controller
+ARCHIVE        -> Archive Management / archive bridge
+RECOVERY       -> Systems Engineering / recovery controller
+RESTORE        -> Maintenance / restoration controller
+
+Ownership only. No recovery values are stored here.

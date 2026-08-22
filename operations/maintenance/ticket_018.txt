@@ -1,0 +1,18 @@
+MAINTENANCE TICKET
+
+Ticket:
+MT-0018
+
+Category:
+Network
+
+Priority:
+LOW
+
+Assigned:
+R. Khan
+
+Status:
+CLOSED
+
+No incident relevance established.

@@ -1,0 +1,17 @@
+THREAT ASSESSMENT
+
+Suspected actor:
+UNKNOWN
+
+Internal shorthand:
+GHOST-17
+
+The label does not establish attribution.
+
+Observed behavior:
+- service-account misuse
+- unusual network access
+- administrator authentication attempts
+- recovery-system interaction
+
+Attribution remains unconfirmed.

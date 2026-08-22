@@ -1,0 +1,18 @@
+MAINTENANCE TICKET
+
+Ticket:
+MT-0010
+
+Category:
+Cooling
+
+Priority:
+LOW
+
+Assigned:
+Priya Rao
+
+Status:
+OPEN
+
+No incident relevance established.

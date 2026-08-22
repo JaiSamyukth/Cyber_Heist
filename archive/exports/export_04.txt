@@ -1,0 +1,16 @@
+ARCHIVE EXPORT
+
+Export ID:
+EX-42475
+
+Records:
+1254
+
+Valid:
+1803
+
+Format:
+NEXUS-ARCHIVE-V5
+
+Status:
+COMPLETE

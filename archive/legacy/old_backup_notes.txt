@@ -1,0 +1,19 @@
+OLD BACKUP NOTES
+
+Storage:
+Server 1
+Server 2
+Server 3
+
+Backup copies:
+01
+02
+03
+
+Archive boxes:
+04
+05
+06
+
+STATUS:
+OBSOLETE

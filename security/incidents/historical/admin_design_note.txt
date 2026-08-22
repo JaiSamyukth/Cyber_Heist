@@ -1,0 +1,14 @@
+RECOVERY DESIGN NOTE
+
+Author:
+Adrian Vale
+
+The recovery architecture intentionally avoids keeping all values in a
+single document.
+
+The six operational stages are independent.
+
+If repository access is compromised, recover values from their
+respective subsystem records.
+
+Stage order is operationally meaningful.

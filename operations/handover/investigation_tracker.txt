@@ -1,0 +1,22 @@
+BLACKOUT INVESTIGATION TRACKER
+
+Known recovery markers:
+
+A
+B
+C
+D
+E
+F
+
+Open actions:
+
+- Verify authentication
+- Verify integrity
+- Verify isolation
+- Verify archive
+- Verify recovery
+- Verify restoration
+
+Status:
+INCOMPLETE

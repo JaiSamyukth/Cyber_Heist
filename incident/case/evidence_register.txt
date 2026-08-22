@@ -1,0 +1,15 @@
+EVIDENCE REGISTER
+
+E-001 Authentication logs
+E-002 Firewall events
+E-003 System events
+E-004 Maintenance records
+E-005 Archive records
+E-006 Recovery application
+E-007 Historical repository versions
+E-008 Incident notes
+
+Evidence status:
+PRESERVED
+
+Presence in this register does not mean every field is relevant.

@@ -1,0 +1,16 @@
+SYSTEM HEALTH REPORT
+
+CPU:
+41%
+
+Memory:
+63%
+
+Disk:
+72%
+
+Temperature:
+22 C
+
+Overall:
+HEALTHY

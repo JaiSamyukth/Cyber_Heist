@@ -1,0 +1,14 @@
+DNS MONITORING EXPORT
+
+08:21 nexus-core.internal
+08:22 archive01.internal
+08:23 backup01.internal
+08:29 recovery.internal
+08:30 maintenance.internal
+08:31 recovery.internal
+
+Queries:
+normal=184
+suspicious=2
+
+No external resolution observed.

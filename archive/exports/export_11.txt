@@ -1,0 +1,16 @@
+ARCHIVE EXPORT
+
+Export ID:
+EX-48278
+
+Records:
+1863
+
+Valid:
+842
+
+Format:
+NEXUS-ARCHIVE-V6
+
+Status:
+COMPLETE

@@ -1,0 +1,16 @@
+ARCHIVE EXPORT
+
+Export ID:
+EX-62818
+
+Records:
+925
+
+Valid:
+1810
+
+Format:
+NEXUS-ARCHIVE-V4
+
+Status:
+COMPLETE

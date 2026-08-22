@@ -1,0 +1,22 @@
+SERVER HEALTH REPORT
+
+Server ID:
+SRV-08
+
+CPU:
+39%
+
+Memory:
+49%
+
+Storage:
+77%
+
+Temperature:
+21 C
+
+Last reboot:
+2026-08-05
+
+Status:
+NORMAL

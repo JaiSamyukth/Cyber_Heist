@@ -1,0 +1,16 @@
+ARCHIVE EXPORT
+
+Export ID:
+EX-28179
+
+Records:
+2390
+
+Valid:
+1506
+
+Format:
+NEXUS-ARCHIVE-V6
+
+Status:
+COMPLETE

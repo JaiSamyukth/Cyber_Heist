@@ -1,0 +1,18 @@
+MAINTENANCE TICKET
+
+Ticket:
+MT-0008
+
+Category:
+Network
+
+Priority:
+MEDIUM
+
+Assigned:
+Priya Rao
+
+Status:
+CLOSED
+
+No incident relevance established.

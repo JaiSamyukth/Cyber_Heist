@@ -1,0 +1,16 @@
+ARCHIVE BRIDGE CONFIGURATION
+
+Production recovery invokes the archive verification subsystem.
+
+Application integration:
+archive-bridge
+
+Production source:
+website/script.js
+
+Controller family:
+ARC-02
+
+The production source contains the active controller diagnostic.
+
+This document does not record the numerical value.

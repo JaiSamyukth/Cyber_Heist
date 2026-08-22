@@ -1,0 +1,9 @@
+DRAFT
+
+The old controller should not be used.
+
+Check whether archive values were copied manually.
+
+Ask Adrian about the new recovery procedure.
+
+Draft incomplete.

@@ -1,0 +1,10 @@
+MANUAL INCIDENT SUMMARY
+
+Recovery appears to have started around 08:33.
+
+The archive may have been restored before isolation.
+
+This summary was written from memory during the first response meeting.
+
+CONFIDENCE:
+LOW

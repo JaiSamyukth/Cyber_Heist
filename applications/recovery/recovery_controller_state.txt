@@ -1,0 +1,15 @@
+RECOVERY CONTROLLER STATE
+
+Controller family:
+RC-6
+
+Current stage:
+RECOVERY
+
+Emergency controller parameter:
+01
+
+Controller state:
+READY
+
+The parameter is a subsystem value, not a user password.

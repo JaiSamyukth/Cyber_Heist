@@ -1,0 +1,16 @@
+ARCHIVE EXPORT
+
+Export ID:
+EX-26237
+
+Records:
+2326
+
+Valid:
+945
+
+Format:
+NEXUS-ARCHIVE-V2
+
+Status:
+COMPLETE

@@ -1,0 +1,16 @@
+MISC INVENTORY
+
+Cables:
+42
+
+Adapters:
+17
+
+USB drives:
+8
+
+Spare keyboards:
+6
+
+Desk phones:
+11

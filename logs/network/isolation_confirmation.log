@@ -1,0 +1,13 @@
+NETWORK ISOLATION CONFIRMATION
+
+Source:
+net-isolate
+
+08:33:52 controller request
+08:33:54 ruleset accepted
+08:33:59 isolation state confirmed
+
+Controller reference:
+net-isolate
+
+No numerical value is recorded here.

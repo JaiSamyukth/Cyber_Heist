@@ -1,0 +1,16 @@
+ARCHIVE EXPORT
+
+Export ID:
+EX-69306
+
+Records:
+928
+
+Valid:
+1769
+
+Format:
+NEXUS-ARCHIVE-V6
+
+Status:
+COMPLETE

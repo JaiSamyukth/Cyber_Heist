@@ -1,0 +1,8 @@
+LEGACY CONTROLLER WARNING
+
+The old controller used ARC-4.
+
+The current recovery architecture uses independent subsystem
+controllers.
+
+Historical values must not be substituted for current values.
