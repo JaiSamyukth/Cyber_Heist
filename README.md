@@ -141,7 +141,7 @@ ATTACKER         : UNKNOWN
 
 ## TIME LIMIT
 
-# 30 MINUTES
+# 1 HOUR
 
 The first team to successfully recover the system wins.
 
