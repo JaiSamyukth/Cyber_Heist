@@ -9,7 +9,7 @@ Production source:
 website/script.js
 
 Controller family:
-ARC-02
+ARC-01
 
 The production source contains the active controller diagnostic.
 
