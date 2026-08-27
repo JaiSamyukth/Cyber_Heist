@@ -7,7 +7,7 @@ Current stage:
 RECOVERY
 
 Emergency controller parameter:
-01
+02
 
 Controller state:
 READY
