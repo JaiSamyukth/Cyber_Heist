@@ -10,8 +10,8 @@ function submitCode() {
     const archiveBridge = {
         subsystem: "ARCHIVE",
         stage: "verification",
-        controllerRef: "ARC-02",
-        controllerValue: 2,
+        controllerRef: "ARC-01",
+        controllerValue: 1,
         state: "READY"
     };
 
